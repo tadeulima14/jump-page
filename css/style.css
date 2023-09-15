@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(211, 245, 171);
+}
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+.subheader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    text-align: center;
+    padding: 10px;
+}
+.projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(99, 153, 111);
+    padding-bottom: 70px;
+}
+.project-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    line-height:1.8;
+    text-decoration: none;
+    font-size:20px
+}
+.spacer {
+    height: 50px;
+}
+
+.labs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 140px;
+    background-color: rgb(58, 94, 81);
+}
+
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.labsh3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right:50px;
+    text-decoration: none;
+
+}
+
+p{
+    margin-left: 380px;
+    margin-right: 380px;
+}
+
+h2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
